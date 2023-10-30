@@ -35,4 +35,4 @@ Happy Coding Form Sidekick 😁
 Include the -w for no console appearance and Do not use -w if you are running your program on a console.
     
     pyinstaller --onefile -w browser.py   
-After the complete execution of code the executable file can be found in the "dist" folder from where we need to copy paste it into parent folder so the dependencies are accesible for the program. here we are done.
+After the complete execution of code the executable file can be found in the "dist" folder from where we need to copy paste it into parent folder so the dependencies are accesible for the program. here we are done now you can enjoy our B2B Browser Made in India.
